@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Trello**
 
-- 🌱 I’m currently learning **Next.js, Typescript**
+- 🌱 I’m currently learning **React.js, Javascript**
 
 - 👯 I’m looking to collaborate on **Frontend Development**
 
