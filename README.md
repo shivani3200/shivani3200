@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **shivani13222@gmail.com**
 
-- 📄 Know about my experiences https://drive.google.com/drive/folders/1-1irHMhUNYKJAcfpyuV6_nGi0iaO2fOD
+- 📄 Know about my experiences :  https://tinyurl.com/ResumeShivani
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
