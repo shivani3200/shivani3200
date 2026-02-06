@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivani3200&label=Profile%20views&color=0e75b6&style=flat" alt="shivani3200" /> </p>
 
-- 🔭 I’m currently working on **Trello**
+- 🔭 I’m currently working on **Netflix GPT**
 
 - 🌱 I’m currently learning **React.js, Javascript**
 
