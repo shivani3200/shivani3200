@@ -1,11 +1,14 @@
 <img src="https://komarev.com/ghpvc/?username=shivani3200&label=PROFILE%20VIEWS&style=flat-square&color=134E8E" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff" width="100%" />
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=134E8E&height=100&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+  <img alt="Shivani Kumari" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=100&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+</picture>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=22&duration=2500&pause=800&center=false&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver&color=3A8B95">
 </p>
-### About Me
+# About Me
 
 * 🚀 Working on Netflix GPT.
 * 🌱 Learning React and Javascript.
