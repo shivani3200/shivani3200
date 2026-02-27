@@ -25,7 +25,7 @@
 <a href="https://auth.geeksforgeeks.org/user/kumarishivani/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarishivani/profile" height="30" width="40" /></a>
 </p>
 
-### Frontend Engineering
+# Frontend Engineering
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-### Backend & Tools
+# Backend & Tools
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -43,19 +43,22 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-### Analytics
+# Analytics
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shivani3200&show_icons=true&theme=transparent&title_color=66D0BC&text_color=D1D5DB&icon_color=66D0BC&hide_border=true&border_radius=12&cache_seconds=1800" height="140" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani3200&theme=transparent&stroke=66D0BC&fire=66D0BC&ring=66D0BC&currStreakNum=D1D5DB&hide_border=true&border_radius=12" height="140" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=00000000&color=66D0BC&line=66D0BC&point=FFFFFF&hide_border=true&area=true&height=220" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=00000000&color=66D0BC&line=66D0BC&point=FFFFFF&hide_border=true&area=true&height=220">
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=00000000&color=66D0BC&line=66D0BC&point=66D0BC&hide_border=true&area=true&height=220">
+  <img alt="GitHub Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=00000000&color=66D0BC&line=66D0BC&point=66D0BC&hide_border=true&area=true&height=220" width="100%" />
+</picture>
 
-<br/>
 <br/>
 
 ## ✨ Beyond Code
 
 > Finds the same peace in clean code as in ocean sunsets.
 
-> > I believe consistency beats motivation 💪 >
+>  I believe consistency beats motivation 💪 >
