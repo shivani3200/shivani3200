@@ -1,9 +1,9 @@
 <img src="https://komarev.com/ghpvc/?username=shivani3200&label=PROFILE%20VIEWS&style=flat-square&color=134E8E" />
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=134E8E&height=150&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
-  <img alt="Shivani Kumari" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=150&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=134E8E&height=125&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=125&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
+  <img alt="Shivani Kumari" src="https://capsule-render.vercel.app/api?type=waving&color=0f172a&height=125&section=header&text=Shivani%20Kumari&fontSize=40&animation=fadeIn&fontAlignY=35&fontColor=ffffff">
 </picture>
 <p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=400&size=22&duration=2500&pause=800&center=false&vCenter=true&width=600&lines=Software+Engineer;Full+Stack+Developer;Problem+Solver&color=3A8B95">
@@ -18,14 +18,14 @@
 * 📫 Reach: shivani13222@gmail.com
 * 📄 [View my Resume](https://tinyurl.com/ResumeShivani)
 
-<h3 align="left">Connect with me:</h3>
+<h4 align="left">Connect with me:</h4>
 <p align="left">
 <a href="https://linkedin.com/in/shivanik13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivanik13" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shivani2rockon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shivani2rockon" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/kumarishivani/profile" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="kumarishivani/profile" height="30" width="40" /></a>
 </p>
 
-# Frontend Engineering
+<h5 align="left"> Frontend techs</h5>
 <p align="left"> 
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
@@ -34,7 +34,7 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
 </p>
 
-# Backend & Tools
+<h5 align="left">Backend techs</h5>
 <p align="left"> 
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
@@ -43,7 +43,7 @@
 <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-# Analytics
+<h5 align="left"> Anakytics</h5>
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=shivani3200&show_icons=true&theme=transparent&title_color=66D0BC&text_color=D1D5DB&icon_color=66D0BC&hide_border=true&border_radius=12&cache_seconds=1800" height="140" /> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani3200&theme=transparent&stroke=66D0BC&fire=66D0BC&ring=66D0BC&currStreakNum=D1D5DB&hide_border=true&border_radius=12" height="140" />
@@ -57,7 +57,8 @@
 
 <br/>
 
-## ✨ Beyond Code
+<h3 align="left"> ✨ Beyond Code</h3>
+ 
 
 > Finds the same peace in clean code as in ocean sunsets.
 
