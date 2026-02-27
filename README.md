@@ -45,12 +45,13 @@
 
 ### Analytics
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=shivani3200&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="140" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani3200&theme=tokyonight&hide_border=true&border_radius=12" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shivani3200&show_icons=true&theme=transparent&title_color=66D0BC&text_color=D1D5DB&icon_color=66D0BC&hide_border=true&border_radius=12&cache_seconds=1800" height="140" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivani3200&theme=transparent&stroke=66D0BC&fire=66D0BC&ring=66D0BC&currStreakNum=D1D5DB&hide_border=true&border_radius=12" height="140" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=0D1117&color=B9E6FF&line=B9E6FF&point=FFFFFF&hide_border=true&area=true&height=220" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shivani3200&bg_color=00000000&color=66D0BC&line=66D0BC&point=FFFFFF&hide_border=true&area=true&height=220" width="100%" />
 
+<br/>
 <br/>
 
 *Learn deeply. Build intentionally. Improve every single day.*
