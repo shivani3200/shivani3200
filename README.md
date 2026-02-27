@@ -54,4 +54,8 @@
 <br/>
 <br/>
 
-*Learn deeply. Build intentionally. Improve every single day.*
+## ✨ Beyond Code
+
+> Finds the same peace in clean code as in ocean sunsets.
+
+> > I believe consistency beats motivation 💪 >
