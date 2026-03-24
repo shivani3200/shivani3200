@@ -10,7 +10,8 @@
 </p>
 # About Me
 
-* 🚀 Working on Netflix GPT.
+* 🚀 Working on [Netflix GPT App](https://netflixgpt-shiv.web.app/)
+
 * 🌱 Learning React and Javascript.
 * 👯 Collaborating on Frontend Development.
 * 🤝 Seeking Backend Development help.
